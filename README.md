@@ -6,8 +6,8 @@ The Pokemon Web Application is designed to showcase frontend development skills 
 
 ## Image
 
-<img width="936" alt="poke1" src="" />
-<img width="947" alt="poke2" src="" />
+<img width="936" alt="poke1" src="https://github.com/callmeprinceyadav/pokemon/blob/main/pokemon-pivot/Desktop-view.png" />
+<img width="947" alt="poke2" src="https://github.com/callmeprinceyadav/pokemon/blob/main/pokemon-pivot/Mobile-view.png" />
 
 ### Primary Technologies
 - React
